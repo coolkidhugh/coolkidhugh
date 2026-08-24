@@ -1,20 +1,13 @@
-### Hey, I'm coolkidhugh
+### coolkidhugh
 
-I build small tools and ship them fast — Python, web frontends, and whatever unblocks real work.
+写小工具解决具体问题。多用 Python 和前端，能跑通、能省事就行。
 
-**Now**
-- Turning messy day-to-day workflows into simple scripts & apps
-- Exploring AI-assisted tools (chat agents, OCR, data cleanup)
-- Keeping a clean public GitHub and shipping more open projects soon
+**最近在做**
+- 把日常重复活自动化（表格、邮件、图片识别这类）
+- 用 Streamlit / 简单 Web 把脚本做成能点的东西
+- 需要时接一下 AI API，不当花活，当加速器
 
-**Stack I reach for**
-`Python` · `JavaScript` · `Streamlit` · `FastAPI` · `React` · `HTML/CSS`
+**常用**
+Python · JavaScript · Streamlit · FastAPI · React
 
-**About**
-- Prefer small, useful tools over big unfinished frameworks
-- Learn by building, break things, then tidy them up
-- Based in China · open to collab on practical side projects
-
----
-
-*Profile WIP — new public tools coming.*
+公开项目还不多，有能拿得出手的会直接挂上来。
