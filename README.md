@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey, I'm coolkidhugh
 
-<!--
-**coolkidhugh/coolkidhugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small tools and ship them fast — Python, web frontends, and whatever unblocks real work.
 
-Here are some ideas to get you started:
+**Now**
+- Turning messy day-to-day workflows into simple scripts & apps
+- Exploring AI-assisted tools (chat agents, OCR, data cleanup)
+- Keeping a clean public GitHub and shipping more open projects soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I reach for**
+`Python` · `JavaScript` · `Streamlit` · `FastAPI` · `React` · `HTML/CSS`
+
+**About**
+- Prefer small, useful tools over big unfinished frameworks
+- Learn by building, break things, then tidy them up
+- Based in China · open to collab on practical side projects
+
+---
+
+*Profile WIP — new public tools coming.*
