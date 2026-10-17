@@ -1,4 +1,4 @@
-### coolkidhugh
+### H
 
 I build automation for work that people are still doing by hand.
 
@@ -49,4 +49,4 @@ Python · FastAPI · PyTorch · Ultralytics · PaddleOCR · Next.js · Docker ·
 
 Open to consulting work on document automation, private LLM deployment, and applied computer vision.
 
-The fastest way to reach me is to open an issue on any repository above. Describe the manual process you want removed and I will tell you honestly whether it is worth automating.
+For consulting via [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=profile&utm_campaign=github-profile), visit the site. Personal notes and updates: [@odpanda](https://x.com/odpanda) on X. Or open an issue on any repository above—describe the manual process you want removed and I will tell you honestly whether it is worth automating.
