@@ -47,6 +47,6 @@ Python · FastAPI · PyTorch · Ultralytics · PaddleOCR · Next.js · Docker ·
 
 **Get in touch**
 
-Open to consulting work on document automation, private LLM deployment, and applied computer vision.
+Open to applied engineering (private LLM, computer vision) and, via 写春秋, workforce productivity / organization / compensation consulting.
 
-For consulting via [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=profile&utm_campaign=github-profile), visit the site. Personal notes and updates: [@odpanda](https://x.com/odpanda) on X. Or open an issue on any repository above—describe the manual process you want removed and I will tell you honestly whether it is worth automating.
+For [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=profile&utm_campaign=github-profile) (人效提升、组织诊断、薪酬绩效), visit the site. Personal notes: [@odpanda](https://x.com/odpanda). Or open an issue on any repo above with the process you want improved.
